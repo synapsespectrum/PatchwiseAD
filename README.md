@@ -16,9 +16,9 @@ The synthetic anomaly generation method utilized in this phase comprises three a
 
 ## Installation
 ### 1. Data Preparation
-- 3 public datasets are available: MSL, SMD, and SMAP.
-- You can download the preprocessed data from [here](https://github.com/synapsespectrum/PatchwiseAD/releases/download/dataset/dataset.zip) and put it in the `dataset` folder.
-- You can follow the construction of the dataset in the [AnomalyBERT](https://github.com/Jhryu30/AnomalyBERT/blob/main/utils/DATA_PREPARATION.md).
+- 3 public datasets are available: MSL, SMD, and SMAP. To download datasets:
+  - You can download the preprocessed data from [here](https://github.com/synapsespectrum/PatchwiseAD/releases/download/dataset/dataset.zip) and put it in the `dataset` folder.
+  - Or you can follow the construction of the dataset in the [AnomalyBERT](https://github.com/Jhryu30/AnomalyBERT/blob/main/utils/DATA_PREPARATION.md).
 
 ```markdown
 data_provider
