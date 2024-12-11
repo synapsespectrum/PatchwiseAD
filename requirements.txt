@@ -1,0 +1,7 @@
+numpy
+scikit_learn
+timm
+pytorch-model-summary
+tensorboard
+matplotlib
+openpyxl
