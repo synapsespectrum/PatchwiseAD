@@ -1,9 +1,9 @@
-# PatchwiseAD
+# PatchwiseAD: Patch-Wise-Based Self-Supervised Learning for Anomaly Detection on Multivariate Time Series Data
 ## Introduction
 This paper presents a Patch-wise framework for anomaly detection in multivariate time series data. 
 The proposed approach integrates four key components: **patching** for continuous feature maintenance, 
 learning temporal dependencies with relative positional bias, **self-supervised** feature representation learning, 
-and supervised anomaly detection through augmentation.
+and supervised anomaly detection through augmentation. To read full article, please check out [our paper](https://www.mdpi.com/2227-7390/12/24/3969)
 
 ![architecture.png](images/architecture.png)
 
