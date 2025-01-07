@@ -129,10 +129,9 @@ The following table presents the F1-scores for various models on three different
 If you find this code useful, please consider citing our paper.
 ```bibtex
 @article{PatchwiseAD,
-  title={Patch-wise based Self-Supervised Learning for Anomaly Detec-2 
-tion on Multivariate Time Series Data },
+  title={Patch-Wise-Based Self-Supervised Learning for Anomaly Detection on Multivariate Time Series Data },
   author={Seungmin Oh, Le Hoang Anh, Dang Thanh Vu, Gwang Hyun Yu, Minsoo Hanh, Jinsul Kim},
-  journal={},
+  journal={Mathematics 12(24), 3969},
   year={2024}
 }
 ```
